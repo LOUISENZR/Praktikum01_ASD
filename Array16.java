@@ -74,6 +74,6 @@ public class Array16 {
         System.out.println("IP Semester: " + ipSemester);
     
 
-
+    sc16.close();
     }
 }
